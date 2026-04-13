@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Apple Valley, California. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Apple Valley, California, US",
+  "export_job_id": "6e70a279-ef91-40b1-837d-018cb0f42578",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 550074,
+  "location_name": "Apple Valley",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-apple-valley-california-us-sample-550074",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/550074/beamstation_550074_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 8.47,
+  "sample_records": 5,
+  "sample_sha256": "a57ccb300c8a8c6ac5fd9c1cb86ad3e9a86a830797e7e3ea750ebcd59ae72694",
+  "sample_size_bytes": 28017,
+  "total_records": 59,
+  "updated_at": "2026-04-09T11:15:10.754470+00:00"
+}
