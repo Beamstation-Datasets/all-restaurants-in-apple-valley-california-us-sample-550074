@@ -1,12 +1,12 @@
 {
-  "export_job_id": "532d16fc-4291-42e4-96ee-fc03098f1337",
+  "export_job_id": "76e59e07-b2cc-490f-a575-3a8af6ecf916",
   "id_short": 550074,
-  "published_at": "2026-04-19T19:08:05Z",
+  "published_at": "2026-04-23T19:10:35Z",
   "repo_name": "all-restaurants-in-apple-valley-california-us-sample-550074",
   "sample_asset_name": "beamstation_550074_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/550074/beamstation_550074_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "fece322edcc3b7fdc79c70bc6e4e74808df2a98e9108a1a7d867bc6aa28901b2",
-  "sample_size_bytes": 28550,
-  "total_records": 61
+  "sample_records": 5,
+  "sample_sha256": "b3480207024c04ef34eb4725d1b778d684b1e8947ff6d1e56aa40770a413cd18",
+  "sample_size_bytes": 33690,
+  "total_records": 54
 }
