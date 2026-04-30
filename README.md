@@ -1,6 +1,6 @@
 # All Restaurants in Apple Valley, California, US
 
-> Free BeamStation sample export with 5 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `550074` |
 | Location | Apple Valley |
 | Category | Restaurants |
-| Full dataset size | 54 records |
-| Free sample size | 5 records (9.26%) |
-| Last export | 2026-04-23T10:48:09.505399+00:00 |
+| Full dataset size | 62 records |
+| Free sample size | 6 records (9.68%) |
+| Last export | 2026-04-30T10:49:45.422534+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-apple-valley-california-us-sample-550074/releases/download/sample-latest/beamstation_550074_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
